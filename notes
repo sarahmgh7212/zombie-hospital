@@ -1,0 +1,3 @@
+refactor routes(controller class,router)
+install hbs
+tell nodemon to watch for updated views
